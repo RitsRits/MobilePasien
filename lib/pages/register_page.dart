@@ -38,7 +38,7 @@ class RegisterPage extends StatelessWidget {
                       child: TextField(
                         style: TextStyle(color: Colors.white),
                         decoration: InputDecoration(
-                          labelText: 'Name',
+                          labelText: 'Nama',
                           labelStyle: TextStyle(color: Colors.white),
                           enabledBorder: OutlineInputBorder(
                             borderSide: BorderSide(color: Colors.white),
@@ -112,7 +112,7 @@ class RegisterPage extends StatelessWidget {
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: [
                           Text(
-                            "Already have an account? ",
+                            "Sudah punya akun? ",
                             style: TextStyle(color: Colors.white),
                           ),
                           Text(

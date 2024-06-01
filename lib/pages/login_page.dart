@@ -62,7 +62,7 @@ class LoginPage extends StatelessWidget {
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
-                    Text("Don't have an account? "),
+                    Text("Belum punya akun? "),
                     Text(
                       'Register',
                       style: TextStyle(
